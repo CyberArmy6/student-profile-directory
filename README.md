@@ -1,4 +1,5 @@
 STUDENT PROFILE DIRECTORY APP
+
 This is a Student Profile Directory Application built with React as part of my assignment for the React Mastery Bootcamp at HackerBoost.
 The application demonstrates core React concepts including reusable components, props, dynamic rendering, conditional rendering, and state management.
 
